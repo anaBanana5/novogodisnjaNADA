@@ -208,12 +208,13 @@
             // 
             // button1
             // 
+            this.button1.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.button1.Location = new System.Drawing.Point(381, 285);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(159, 66);
             this.button1.TabIndex = 18;
             this.button1.Text = "SPREMI";
-            this.button1.UseVisualStyleBackColor = true;
+            this.button1.UseVisualStyleBackColor = false;
             // 
             // Form2
             // 
